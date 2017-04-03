@@ -10,7 +10,7 @@ namespace Coffee3._0
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello Guys, this is a conflict test!");
         }
     }
 }

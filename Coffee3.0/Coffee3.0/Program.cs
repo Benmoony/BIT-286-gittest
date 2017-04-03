@@ -10,7 +10,10 @@ namespace Coffee3._0
     {
         static void Main(string[] args)
         {
-            
+            for (int i = 1; i <= 100; i++)
+            {
+                Console.WriteLine("i: {0}", i);
+            }
         }
     }
 }

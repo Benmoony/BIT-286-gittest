@@ -12,6 +12,7 @@ namespace Coffee3._0
         {
             Console.WriteLine("Hello Guys, this is a conflict test!");
             Console.WriteLine("Branching is fun yo");
+            Console.WriteLine("Branching is Fun Fun Fun!");
 
             for (int i = 1; i <= 100; i++)
             {

@@ -50,6 +50,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HaythamTextFile.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="benText.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="ZinTextFile.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
